@@ -1,7 +1,7 @@
 # This problem was asked by Goldman Sachs.
-# Given a list of numbers L, implement a method sum(i, j) which returns the sum 
-# from the sublist L[i:j] (including i, excluding j).
-# For example, given L = [1, 2, 3, 4, 5], sum(1, 3) should return sum([2, 3]), which is 5.
+# Given a list of numbers _inputList, implement a method _sum(i, j) which returns the sum 
+# from the sublist _inputList[i:j] (including i, excluding j).
+# For example, given _inputList = [1, 2, 3, 4, 5], _sum(1, 3) should return _sum([2, 3]), which is 5.
 
 # taking input from user
 def _input():
